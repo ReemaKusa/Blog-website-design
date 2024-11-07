@@ -1,0 +1,21 @@
+/* Typography styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+h2 {
+    font-size: 1.5rem;
+    color: rgb(63, 63, 64);
+}
+
+p {
+    font-size: 1rem;
+    color: #323131;
+}
+
+.nav a, .footer-section a {
+    color: #fff;
+    text-decoration: none;
+}
+
